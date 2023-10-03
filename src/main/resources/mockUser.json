@@ -1,0 +1,12 @@
+{
+	"userId": "mockId",
+	"userName": "mockUser",
+	"password": "mock",
+	"firstName": "Mock",
+	"lastName": "Name",
+	"email": "mock.id@mock.com",
+	"phone": "1111111111",
+	"role": "USER",
+	"isActive": true,
+	"isLocked": false
+}
